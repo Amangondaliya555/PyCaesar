@@ -1,10 +1,10 @@
-# PyCeaser
+# PyCeasar
 
-It is  a python based implementation of Ceaser cipher using Python. 
+It is  a python based implementation of Ceasar cipher using Python. 
 
 Steps:
 
-1.Cone the URL : https://github.com/Amangondaliya555/PyCeaser.git
+1.Cone the URL : https://github.com/Amangondaliya555/PyCeasar.git
 
 2.Make sure you have python2 or python3 in your machihne.
 
