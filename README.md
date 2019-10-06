@@ -1,6 +1,6 @@
 # PyCaesar
 
-It is  a python based implementation of Ceasar cipher using Python. 
+It is  a python based implementation of Caesar cipher using Python. 
 
 Steps:
 
