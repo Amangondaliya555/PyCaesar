@@ -8,6 +8,8 @@ Steps:
 
 2.Make sure you have python3 in your machihne.
 
-3.select the option wheater you want to decrypt or encrypt.
+3.Run the command in terminal : python3 PyCeaser.py
 
-4.Remaining steps are just a piece of cake.
+4.select the option wheater you want to decrypt or encrypt.
+
+5.Remaining steps are just a piece of cake.
