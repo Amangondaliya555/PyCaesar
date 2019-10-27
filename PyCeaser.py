@@ -98,7 +98,6 @@ if __name__ == "__main__":
             Message = input("Please Enter Your MESSAGE (Cipher Text) : ")
             Message = Message.lower()
             get_keys(Message)
-            print("\nSorry(if and only if the list is too long) :\n")
             show_final_guess(Message)
 
         else:
